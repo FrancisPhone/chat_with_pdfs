@@ -1,0 +1,12 @@
+R&D/chroma_db/
+R&D/.env
+
+app/chroma_db/
+app/.idea/
+app/.env
+app/.venv/
+app/scripts/__pycache__/
+app/src/__pycache__/
+app/src/agents/__pycache__/
+
+.ipynb_checkpoints/
